@@ -7,3 +7,5 @@ In English :
 Hi it's just to say thank you and above all don't forget the __resource.lua
 
 Mapping By TRISTANmppg
+
+Preview : https://streamable.com/bmmjxc
